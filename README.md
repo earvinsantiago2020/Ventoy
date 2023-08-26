@@ -1,4 +1,4 @@
-<h1> Ventoy - USB Bootable Media </h1>
+![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/059a2cf7-93a5-4b2f-8021-3dc2c426e37d)<h1> Ventoy - USB Bootable Media </h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -17,32 +17,41 @@ Project consists of a simple installation of a program named Ventoy on a USB dev
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download the latest version of <a href="https://www.ventoy.net/en/download.html">](Ventoy): <br/>
-<img src="https://i.imgur.com/Mkbe8U3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download the latest version of <a href="https://www.ventoy.net/en/download.html">Ventoy</a>: <br/>
+<img src="https://i.imgur.com/Mkbe8U3.png" height="80%" width="80%" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Link will direct you to Github, select Windows.zip  <br/>
+<img src="https://i.imgur.com/DDdB1JJ.png" title="source: imgur.com" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go ahead and extract the file's contents to a folder: <br/>
+<img src="https://i.imgur.com/arQJfjP.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once extracted, open Ventoy2Disk X86 and connect your USB:<br/>
+<img src="https://i.imgur.com/mUvuXQQ.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select your device and click install. (**Note: Backup any sensitive information, it will be wiped completely):  <br/>
+<a href="https://imgur.com/MZEaPqC"><img src="https://i.imgur.com/MZEaPqC.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once complete, the drive will be renamed to Ventoy and will automatically open it's directory. This is where our ISOs will be stored. Go ahead and move any bootable medias you would like to contain on this device <br/>
+<a href="https://imgur.com/QXRBX39"><img src="https://i.imgur.com/QXRBX39.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now we will attempt to use the bootable disk, keep in mind that I am running this on a virtual machine so it looks a bit different. Depending on the machine, during boot you may need to press F12 to prompt the boot menu. **Make sure your UEFI/BIOS has Secure Boot disabled**  <br/>
+<a href="https://imgur.com/Dm7aGrZ"><img src="https://i.imgur.com/Dm7aGrZ.png" title="source: imgur.com" /></a>
+<br />
+<br />
+Now that we have booted into the USB, this menu should appear with a list of all bootable medias on the device. Now we can select an .ISO to test. I will be using Win10. <br/>
+<a href="https://imgur.com/1qmslNL"><img src="https://i.imgur.com/1qmslNL.png" title="source: imgur.com" /></a>
+<br />
+<br />
+
+![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/33d191c6-2e2a-4231-bdcd-0c30d9a9c936)
+
 </p>
 
 <!--
