@@ -1,8 +1,12 @@
+<h1> Ventoy - Insallation and Demonstration </h1>
+
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 
 Project consists of a simple installation of a program named Ventoy on a USB device. Typically, when you want to create a bootable device, the entire space of the drive is utilized for that purpose. Ventoy alleviates that problem with creating an EFI directory on the bootable drive first then allowing you to select which ISO you would like to run on the device. The only issue I have had with this is that Secure Boot needs to be disabled or else Ventoy will be flagged exploit. Otherwise, Ventoy is perfect for me to have multiple versions of ISOs on a single drive.
+
+In this tutorial, we will be installing Ventoy on the USB and test a Windows 10.iso image to verify it's usability.
 
 <h2> Utilities Used </h2>
 
@@ -48,7 +52,14 @@ Now that we have booted into the USB, this menu should appear with a list of all
 <br />
 <br />
 
-![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/33d191c6-2e2a-4231-bdcd-0c30d9a9c936)
+It should give you option for Normal mode and Wimboot mode. If Normal mode is giving issues, Wim mode will launch a Windows image to boot. <br/>
+![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/d51d934f-ccec-4718-a228-a8e15f4f8592)
+
+<br />
+<br />
+
+I selected Normal mode and now I am booted into Windows Setup as can be seen here.<br/>
+![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/59a00b7c-b317-4426-8bc8-ec4a6f3491b7)
 
 </p>
 
