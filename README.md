@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-Project consists of a simple installation of a program named Ventoy on a USB device. Typically, when you want to create a bootable device, the entire space of the drive is utilized for that purpose. Ventoy alleviates that problem with creating an EFI directory on the bootable drive first then allowing you to select which ISO you would like to run on the device. The only issue I have had with this is that Secure Boot needs to be disabled or else Ventoy will be flagged exploit.
+Project consists of a simple installation of a program named Ventoy on a USB device. Typically, when you want to create a bootable device, the entire space of the drive is utilized for that purpose. Ventoy alleviates that problem with creating an EFI directory on the bootable drive first then allowing you to select which ISO you would like to run on the device. The only issue I have had with this is that Secure Boot needs to be disabled or else Ventoy will be flagged exploit. Otherwise, Ventoy is perfect for me to have multiple versions of ISOs on a single drive.
 
 <h2> Utilities Used </h2>
 
