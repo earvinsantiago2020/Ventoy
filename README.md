@@ -1,4 +1,4 @@
-#![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/059a2cf7-93a5-4b2f-8021-3dc2c426e37d)<h1> Ventoy - USB Bootable Media </h1>
+![image](https://github.com/earvinsantiago2020/Ventoy/assets/143285871/059a2cf7-93a5-4b2f-8021-3dc2c426e37d)
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
