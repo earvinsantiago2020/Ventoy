@@ -17,7 +17,7 @@ Project consists of a simple installation of a program named Ventoy on a USB dev
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download the latest version of [[Ventoy for Windows]<a href="https://www.ventoy.net/en/download.html">](Ventoy): <br/>
+Download the latest version of <a href="https://www.ventoy.net/en/download.html">](Ventoy): <br/>
 <img src="https://i.imgur.com/Mkbe8U3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
